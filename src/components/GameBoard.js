@@ -26,9 +26,7 @@ export default function GameBoard({ onBackToHome }) {
 // eslint-disable-next-line react-hooks/exhaustive-deps
 useEffect(() => {
   startNewGame();
-}, []);
-
-
+}, [startNewGame]);
 
 
   return (

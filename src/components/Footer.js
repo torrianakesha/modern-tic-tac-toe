@@ -51,7 +51,7 @@ export default function Footer() {
         </div>
       </div>
       
-      <p className="text-gray-500">© 2025 Kesha Torriana. All Rights Reserved.</p>
+      <p className="text-gray-500">© 2025 Kesha Torriana. Rights Reserved.</p>
     </footer>
   );
 }

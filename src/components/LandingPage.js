@@ -101,7 +101,7 @@ export default function LandingPage({ onStartGame }) {
                 <ul className="space-y-2 text-gray-700">
                   <li className="flex items-start gap-2">
                     <span className="text-purple-600 mt-1">•</span>
-                    Remember where you've seen cards for future turns
+                    Remember where you&apos;ve seen cards for future turns
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-purple-600 mt-1">•</span>
