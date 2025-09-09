@@ -28,8 +28,8 @@ Built with **Next.js 15, React, and Tailwind CSS**.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/tic-tac-toe-pairs.git
-cd tic-tac-toe-pairs
+git clone https://github.com/your-username/modern-tic-tac-toe-.git
+
 ```
 ### 2. Install Dependencies
 ```
