@@ -4,8 +4,8 @@ import { Button } from './ui/button';
 import { Card, CardContent } from './ui/card';
 import { GamepadIcon } from 'lucide-react';
 import { useGameLogic } from '../hooks/useGameLogic.js';
-import ScoreBoard from './scoreBoard'
 import CardItem from './CardItem';
+import ScoreBoard from './ScoreBoard';
 import Footer from './Footer';
 
 export default function GameBoard({ onBackToHome }) {
